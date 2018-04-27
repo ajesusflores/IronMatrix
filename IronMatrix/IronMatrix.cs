@@ -2,7 +2,10 @@
 
 namespace IronMatrix
 {
-    public class Class1
+    public class Vector
     {
+        public int Size { get; set; }
+
+        
     }
 }
