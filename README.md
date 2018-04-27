@@ -20,6 +20,6 @@ Roadmap:
   - Calculate Orthogonal Vector
   - Matrix and Vector multiplication
   - Generate Matrices
---- Zeroes Matrix
---- Identity Matrix
--- Transpose Matrix
+    - Zeroes Matrix
+    - Identity Matrix
+  - Transpose Matrix
