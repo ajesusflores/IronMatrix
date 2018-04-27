@@ -9,11 +9,11 @@ Roadmap:
   - Scale Vector
   - Scale Matrix
   - Vector Addition
--- Matrix Addition
--- Vector Substraction
--- Scaled Vector Addition
--- Dot product 
---- Implement Slicing to improve performance
+  - Matrix Addition
+  - Vector Substraction
+  - Scaled Vector Addition
+  - Dot product 
+    - Implement Slicing to improve performance
 -- Vector Length [norm=2 (Euclidean), norm=1 (Manhattan), norm=n]
 --- Implement Slicing to improve performance
 --- Avoid possible Overflow for big numbers
