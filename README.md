@@ -6,9 +6,9 @@ Linear algebra for C#
 Roadmap:
 
 - Matrix and Vector support:
- - Scale Vector
- - Scale Matrix
- - Vector Addition
+  - Scale Vector
+  - Scale Matrix
+  - Vector Addition
 -- Matrix Addition
 -- Vector Substraction
 -- Scaled Vector Addition
